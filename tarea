@@ -1,0 +1,11 @@
+algoritmo ejercicio
+Escribir "ingrasa un numero"
+leer num
+si(num  > 10)  entonces 
+escribir " es mayor a 10"
+si/no
+si (num  = 10) entonces 
+escribir "es igual a 10"
+si/no
+escribir " es menor a 10"
+Finsi
